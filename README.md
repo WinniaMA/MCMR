@@ -1,5 +1,5 @@
 # DCDIA  
-![The overall architecture of DCDIA](https://github.com/WinniaMA/MCMR/blob/main/Fig1.pdf)
+![The overall architecture of MCMR](https://github.com/WinniaMA/MCMR/blob/main/Fig1.pdf)
 
 ## Overview  
 This repository contains code necessary to run DCDIA model.  
