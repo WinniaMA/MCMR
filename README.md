@@ -2,7 +2,7 @@
 ![The overall architecture of MCMR](https://github.com/WinniaMA/MCMR/blob/main/Fig.jpg)
 
 ## Overview  
-This repository contains code necessary to run DCDIA model.  
+This repository contains code necessary to run MCMR model.  
 
 ## Requirements  
 - Python 3.9.21  
